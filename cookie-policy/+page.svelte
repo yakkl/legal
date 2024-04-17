@@ -7,8 +7,10 @@
 <Gradient>
   <Header/>
     <!-- svelte-ignore missing-declaration -->
-    <div class="relative w-full px-6 py-12 overflow-hidden md:max-w-3xl md:mx-auto lg:max-w-4xl lg:pt-16 lg:pb-28">
-      <div class="mt-8 prose prose-slate max-w-prose mx-auto prose-sm">
+    <!-- <div class="relative w-full px-6 py-12 overflow-hidden md:max-w-3xl md:mx-auto lg:max-w-4xl lg:pt-16 lg:pb-28">
+      <div class="mt-8 prose prose-slate max-w-prose mx-auto prose-sm"> -->
+        <div class="relative w-full px-4 sm:px-6 lg:px-8 overflow-hidden mx-auto py-8">
+          <div class="mt-8 prose prose-indigo max-w-full mx-auto md:mx-20 lg:mx-40 prose-sm">
         <blockquote>
         Our <a href="https://yakkl.com/legal/privacy">Privacy Policy</a> explains our principles when it comes to the collection, processing, and storage of your information. This policy specifically explains how we, our partners, and users of our services deploy cookies, as well as the options you have to control them.
         </blockquote>
